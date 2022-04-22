@@ -4,7 +4,6 @@ import build_decisionTree as DT
 import converter as CON
 import splitter as SP
 import csv
-import easygui
 import random
 
 def findAppropriateNode(node ,data):
